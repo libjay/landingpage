@@ -1,0 +1,52 @@
+.header {
+    background-color: #1F2937;
+    margin-bottom: 0px;
+}
+
+.signupbar {
+    background-color: #1F2937;
+    margin-top: 0px;
+}
+
+footer {
+    background-color: #1F2937;
+}
+
+* {
+    margin: 0px;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+
+}
+
+.headerlogo {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.headlinklist {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+p1 {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button {
+    background-color: #3882F6;
+}
+
+.actionbox {
+    background-color: #3882F6;
+}
+
+
+
+
+
